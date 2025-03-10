@@ -68,10 +68,10 @@ ______________________________________
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
 ║❒ *Ytube:* _youtube.com/@dolah254_
 ║❒ *Owner:* _https://wa.me/254716226465_
-║❒ *Repo:* _https://github.com/wasixd/WASI-MD
-║❒ *WaGroup:* _https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j
-║❒ *Plugins:* _https://github.com/wasixd/WASI-MD-PLUGINS_
+║❒ *Repo:* _https://github.com/corneh56-4/Corneh-tech
+║❒ *WaGroup:* _https://chat.whatsapp.com/GGRKGy3I0sAKCKo3nvIG8Q
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029Vb32FIvD8SDyl6qmsA1b
+║❒ *Plugins:* _https://github.com/corneh56-4/Corneh-tech
 ╚════════════════════════╝
 _____________________________________
 
